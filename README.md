@@ -1,4 +1,3 @@
-# portfolio-website
 # My Data Engineering Portfolio
 
 I am a **Data Engineer with 5+ years of experience** in designing scalable data solutions.
